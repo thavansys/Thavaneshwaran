@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thavaneshwaran/Thavaneshwaran/main/assets/ml-pipeline.gif" width="600" />
+  <img src="assets/space-shooter.gif" />
 </p>
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thavaneshwaran
 =======================================================================================================================================
