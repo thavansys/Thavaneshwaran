@@ -4,8 +4,9 @@
     width="45%"
     alt="Mario animation"
   />
+<p align="right">
   <img
-    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+    src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"
     width="45%"
     alt="Creative coding animation"
   />
