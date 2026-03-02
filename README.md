@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.redd.it/abcpef5ajpfe1.gif" width="500" />
+</p>
+
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
